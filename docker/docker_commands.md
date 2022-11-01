@@ -12,7 +12,7 @@
   * [Remove multiples images](#remove-multiples-images)
   * [Remove all images](#remove-all-images)
 - [Containers](#containers)
-  * [Run Comand](#run-comand)
+  * [Run Command](#run-command)
     + [Create and run a container in foreground](#create-and-run-a-container-in-foreground)
     + [Create, run and name a container in foreground](#create--run-and-name-a-container-in-foreground)
     + [Create and run a container in background](#create-and-run-a-container-in-background)
@@ -131,7 +131,7 @@ $ docker rmi $(docker images -a -q)
 
 ## Containers
 
-### Run Comand
+### Run Command
 
 #### Create and run a container in foreground
 
