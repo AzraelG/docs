@@ -2,7 +2,7 @@
 
 ## Index
 - [General](#general)
-  * [Show commands & management commands](#show-commands---management-commands)
+  * [Show commands & management commands](#show-commands--management-commands)
   * [Docker version info](#docker-version-info)
   * [Show info](#show-info)
 - [General images commands](#general-images-commands)
